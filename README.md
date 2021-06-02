@@ -11,7 +11,5 @@
 ## Computer Vision
 1. Convolution on Image
 2. Fourier Transform of Image
-
-## Combination
-1. Object Detection
-2. Optical Flow
+3. Object Detection
+4. Optical Flow
