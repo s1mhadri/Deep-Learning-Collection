@@ -6,7 +6,7 @@
 3. Logistic Regression
 
 ## Deep Learning
-1. Simple Neural Network / Perceptron
+1. Pneumonia Detection
 
 ## Computer Vision
 1. Convolution on Image
