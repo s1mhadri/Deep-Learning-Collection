@@ -7,6 +7,7 @@
 
 ## Deep Learning
 1. Pneumonia Detection
+2. DC GAN
 
 ## Computer Vision
 1. Convolution on Image
