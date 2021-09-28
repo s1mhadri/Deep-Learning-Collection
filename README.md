@@ -10,7 +10,6 @@
 2. DC GAN
 
 ## Computer Vision
-1. Convolution on Image
-2. Fourier Transform of Image
+1. Image Processing
 3. Object Detection
 4. Optical Flow
