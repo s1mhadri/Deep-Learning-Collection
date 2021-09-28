@@ -5,14 +5,14 @@ and a respective csv file for each containing the name of the jpeg file
 as well as the target label (0 for normal, 1 for pneumonia).
 .
 |   Pneumonia-Detection
-       |   chest_test_csv.csv
-       |   chest_train_csv.csv
-       |   PneumoniaDetection.py
-       |
-       \---chest_xray
-           +---test
-           |
-           +---train
+    |   chest_test_csv.csv
+    |   chest_train_csv.csv
+    |   PneumoniaDetection.py
+    |
+    \---chest_xray
+        +---test
+        |
+        +---train
 """
 
 # Imports
