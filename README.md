@@ -10,6 +10,4 @@
 2. DC GAN
 
 ## Computer Vision
-1. Image Processing
-3. Object Detection
-4. Optical Flow
+1. Object Detection
