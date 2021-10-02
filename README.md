@@ -2,8 +2,8 @@
 
 ## Machine Learning
 1. k-Nearest Neighbour
-2. Linear Regression
-3. Ridge Regression
+2. Naive Bayes
+3. Ridge Linear Regression
 
 ## Deep Learning
 1. Pneumonia Detection
