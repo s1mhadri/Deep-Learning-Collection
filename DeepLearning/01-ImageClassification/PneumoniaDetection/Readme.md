@@ -1,3 +1,5 @@
+Detect a visual signal for Pneumonia in medical images by utomatically locating lung opacities on chest radiographs.
+
 Link for dataset: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia  
   
 Folder structure:  
