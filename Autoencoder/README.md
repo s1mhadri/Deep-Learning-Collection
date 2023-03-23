@@ -1,21 +1,13 @@
 # Autoencoders
 
-This repository contains a collection of autoencoder models implemented in PyTorch.
-
-```
-../Autoencoders/
-|-- AnomalyDetection/
-|   |-- CNNAutoencoder.ipynb
-|   |-- synthetic_data.csv
-|-- LinearAutoencoder.ipynb
-```
+This directory contains a collection of autoencoder models to tackle various tasks.
 
 ### Anomaly Detection in time series data
 
-Model used:
+```Models used:```
 * Convolutional Autoencoder
 
 ### MNIST digit reconstruction
 
-Model used:
+```Models used:```
 * Linear Autoencoder

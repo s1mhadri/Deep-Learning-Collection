@@ -1,16 +1,11 @@
 # Convolutional Neural Network
 
-```
-../CNNs/
-|-- PneumoniaDetection/
-|   |-- BasicCNN.ipynb
-|   |-- GoogLeNet.py
-|   |-- ResNet_VggNet.ipynb
-```
+This directory contains a collection of Convolutional Neural Network (CNN) models to tackle various tasks.
+
 
 ### Pneumonia Detection
 
-Model used:
+```Models used:```
 * Basic CNN
 * GoogLeNet
 * ResNet50

@@ -1,3 +1,8 @@
-# MNIST Digit Generation
+# Generative Adversarial Networks
 
-A simple Deep Convolutional Generative Adversarial Network (DC-GAN) framework for the generation of MNIST digits.
+This directory contains a collection of Generative Adversarial Network (GAN) models to tackle various tasks.
+
+### MNIST Digit Generation
+
+```Models used:```
+* Deep Convolutional GAN
