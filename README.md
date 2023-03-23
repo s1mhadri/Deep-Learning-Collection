@@ -2,6 +2,10 @@
 
 This repository contains a collection of deep learning models implemented in PyTorch amd Temsorflow.
 
+## Autoencoders
+
+#### Task: MNIST digit reconstruction
+1. Linear Autoencoder
 
 ## Convolutional Neural Networks (CNNs)
 
