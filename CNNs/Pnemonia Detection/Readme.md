@@ -1,5 +1,13 @@
+# Pneumonia Detection
+
 Detect a visual signal for Pneumonia in medical images by utomatically locating lung opacities on chest radiographs.  
 Implemention using Transfer learning and a model based on convolutional neural networks (CNNs).
+
+Models used:
+* Basic CNN
+* GoogleNet
+* ResNet50
+* VGG16
 
 Link for dataset: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia  
   
