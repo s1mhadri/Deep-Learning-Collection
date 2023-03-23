@@ -4,8 +4,11 @@ This repository contains a collection of deep learning models implemented in PyT
 
 ## Autoencoders
 
+#### Task: Anomaly detection
+1. Convolutional Autoencoder
 #### Task: MNIST digit reconstruction
-1. Linear Autoencoder
+2. Linear Autoencoder
+
 
 ## Convolutional Neural Networks (CNNs)
 
